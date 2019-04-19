@@ -15,7 +15,7 @@ public class PersonPicker : MonoBehaviour
     float timer;
     public float timeToPick;
     public int numberOfPicks;
-
+    public int boop;
     int prevPick;
     public static PersonPicker me;
 
