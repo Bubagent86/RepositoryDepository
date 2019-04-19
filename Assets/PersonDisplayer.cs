@@ -6,7 +6,7 @@ public class PersonDisplayer : MonoBehaviour
 {
     // Update is called once per frame
     void Update() {
-        Debug.Log(PersonPicker.me.ginele.myName);
+        //Debug.Log(PersonPicker.me.ginele.myName);
     }
 
     void DoJob (CharacterInfo.Occupation job) {
